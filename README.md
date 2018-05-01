@@ -1,3 +1,7 @@
+# Pixabay Image Finder API
+
+Small project made with React to grab images from Pixabay using Axios, on the front-end you can enter queries in the search & limit the amount of images.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
